@@ -21,6 +21,8 @@ Create app:
 
 That's it, you can now fully enjoy Ghost. Access `/admin` on your app to configure Ghost for the first time.
 
+Notes
+------
 Scripts and some code copied and modified from https://github.com/openshift-quickstart/openshift-ghost-quickstart
 
 @aatishnn
