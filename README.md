@@ -19,7 +19,7 @@ Setup client tool if you haven't done so:
 Create app:
 `rhc app create myblog nodejs-0.10 postgresql-9.2 --from-code https://github.com/aatishnn/openshift-ghost-quickstart#master`
 
-That's it, you can now fully enjoy Ghost.
+That's it, you can now fully enjoy Ghost. Access `/admin` on your app to configure Ghost for the first time.
 
 Scripts and some code copied and modified from https://github.com/openshift-quickstart/openshift-ghost-quickstart
 
