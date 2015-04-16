@@ -22,3 +22,5 @@ Create app:
 That's it, you can now fully enjoy Ghost.
 
 Scripts and some code copied and modified from https://github.com/openshift-quickstart/openshift-ghost-quickstart
+
+@aatishnn
