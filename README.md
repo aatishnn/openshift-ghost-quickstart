@@ -13,10 +13,10 @@ Create an account at http://openshift.redhat.com/
 
 Install `rhc` client tool as instructed at https://developers.openshift.com/en/managing-client-tools.html
 
-Setup client tool if you haven't done so:
+Setup client tool if you haven't done so:  
 `rhc setup`
 
-Create app:
+Create app:   
 `rhc app create myblog nodejs-0.10 postgresql-9.2 --from-code https://github.com/aatishnn/openshift-ghost-quickstart#master`
 
 That's it, you can now fully enjoy Ghost. Access `/admin` on your app to configure Ghost for the first time.
